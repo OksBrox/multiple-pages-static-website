@@ -1,6 +1,7 @@
 body {
   max-width: 900px;
   margin: 0 auto;
+  background-color: rgb(206, 240, 223);
 }
 .image {
   display: block;
